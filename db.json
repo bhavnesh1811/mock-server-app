@@ -1,18 +1,4 @@
 {
-  "product": [
-    {
-      "id": 1667473993133.58,
-      "image": "https://imgs.search.brave.com/_-zPJcGDDu1b0lXJ9nFkqIcJycaA6bs4UwDMzftEl20/rs:fit:355:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5T/dlJqT0s4VVNPeEdo/ZGt3N1JUY0lnSGFK/NCZwaWQ9QXBp",
-      "price": 999,
-      "category": "Shirt"
-    },
-    {
-      "id": 1667474101613.9924,
-      "image": "https://imgs.search.brave.com/_-zPJcGDDu1b0lXJ9nFkqIcJycaA6bs4UwDMzftEl20/rs:fit:355:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5T/dlJqT0s4VVNPeEdo/ZGt3N1JUY0lnSGFK/NCZwaWQ9QXBp",
-      "price": 499,
-      "category": "Shirt"
-    }
-  ],
+  "todo":[]
 
-  "data":[]
 }
