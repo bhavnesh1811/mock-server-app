@@ -21,6 +21,24 @@
     "https://www.jiomart.com/images/cms/aw_rbslider/slides/1667915037_1240x209.jpg",
     "https://www.jiomart.com/images/cms/aw_rbslider/slides/1667365977_Simpl.jpg"
     
+  ],
+
+  "topdeals1169" :[
+    { "url": "https://www.jiomart.com/images/product/150x150/491208768/nivea-cocoa-nourish-deep-moisture-serum-oil-in-lotion-for-very-dry-skin-400-ml-product-images-o491208768-p590032380-0-202203141948.jpg", "title": "Nivea Cocoa Nourish Body Lotion","deal_price":259,"ratings":4.0,"actual_price":519},
+    { "url": "https://www.jiomart.com/images/product/150x150/490998044/nivea-soft-light-moisturiser-cream-for-face-hands-body-300-ml-product-images-o490998044-p490998044-0-202209150720.jpg", "title": "Nivea Soft Light Moisturiser Cream for Face" ,"deal_price":232,"ratings":4.8,"actual_price":465},
+    { "url": "https://www.jiomart.com/images/product/150x150/490005534/fortune-refined-soyabean-oil-1-l-product-images-o490005534-p490005534-0-202203151702.jpg", "title": "Fortune Refined Soyabean Oil 1 L" ,"deal_price":151,"ratings":4.2,"actual_price":155},
+    { "url": "https://www.jiomart.com/images/product/150x150/490415534/vaseline-intensive-care-deep-moisture-lotion-400-ml-product-images-o490415534-p490415534-0-202203151743.jpg", "title": "Vaseline Intensive Care Deep Moisture Lotion 400 ml","deal_price":225,"ratings":4.1,"actual_price":375 },
+    { "url": "https://www.jiomart.com/images/product/150x150/491252835/tide-jasmine-rose-detergent-powder-5-kg-get-extra-1-kg-free-product-images-o491252835-p590838653-0-202203151949.jpg", "title": "Tide Jasmine & Rose Detergent Powder 5 kg" ,"deal_price":650,"ratings":4.2,"actual_price":685},
+    { "url": "https://www.jiomart.com/images/product/150x150/492391349/kissan-fresh-tomato-ketchup-1-2-kg-product-images-o492391349-p590809928-0-202203150627.jpg", "title": "Kissan Fresh Tomato Ketchup 1.2 kg","deal_price":135,"ratings":4.4 ,"actual_price":160},
+    { "url": "https://www.jiomart.com/images/product/150x150/492848165/surf-excel-matic-top-load-detergent-powder-6-kg-product-images-o492848165-p591223798-0-202204291101.jpg", "title": "Surf Excel Matic Top Load Detergent Powder 6 kg" ,"deal_price":1200,"ratings":4.0,"actual_price":1325},
+    { "url": "https://www.jiomart.com/images/product/150x150/490915866/dove-nutritive-solutions-hair-fall-rescue-shampoo-650-ml-product-images-o490915866-p490915866-0-202203142029.jpg", "title": "Dove Nutritive Solutions Hair Fall Rescue Shampoo" ,"deal_price":666,"ratings":4.1,"actual_price":740},
+    { "url": "https://www.jiomart.com/images/product/150x150/491581190/milkfood-pure-ghee-1-l-carton-product-images-o491581190-p491581190-0-202203170340.jpg", "title": "Milkfood Pure Ghee 1 L (Carton)","deal_price":515,"ratings":4.3,"actual_price":610 },
+    { "url": "https://www.jiomart.com/images/product/150x150/490012765/paras-desi-ghee-1-l-carton-product-images-o490012765-p490012765-0-202206061807.jpg", "title": "Paras Desi Ghee 1 L (Carton)" ,"deal_price":520,"ratings":4.6,"actual_price":600},
+    { "url": "https://www.jiomart.com/images/product/150x150/490012710/fortune-kachi-ghani-mustard-oil-5-l-product-images-o490012710-p490012710-0-202205181239.jpg", "title": "Fortune Kachi Ghani Mustard Oil 5 L" ,"deal_price":859,"ratings":4.7,"actual_price":1094},
+    { "url": "https://www.jiomart.com/images/product/150x150/490277039/ananda-ghee-1-l-carton-product-images-o490277039-p490277039-0-202203171137.jpg", "title": "Ananda Ghee 1 L (Carton)" ,"deal_price":530,"ratings":4.0,"actual_price":600},
+    { "url": "https://www.jiomart.com/images/product/150x150/491961317/dove-cream-beauty-bathing-bar-125-g-buy-4-get-1-free-product-images-o491961317-p590287499-0-202203152303.jpg", "title": "Dove Cream Beauty Bathing Bar 125 g (Buy 4 Get 1 Free)" ,"deal_price":397,"ratings":4.5,"actual_price":472},
+    { "url": "https://www.jiomart.com/images/product/150x150/491186625/good-life-almonds-500-g-product-images-o491186625-p491186625-0-202205180139.jpg", "title": "Good Life Almonds 500 g" ,"deal_price":365,"ratings":4.9,"actual_price":549},
+    { "url": "https://www.jiomart.com/images/product/150x150/490000525/fortune-premium-kachi-ghani-pure-mustard-oil-1-l-product-images-o490000525-p490000525-0-202203170454.jpg", "title": "Fortune Premium Kachi Ghani Pure Mustard Oil 1 L","deal_price":171,"ratings":4.7,"actual_price":205 }
   ]
 
 }
