@@ -1,13 +1,13 @@
 {
   "name": "mock_server",
   "version": "1.0.0",
-  "description": "",
+  "description": "mock_server app",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "bhavnesh",
   "license": "ISC",
   "dependencies": {
     "json-server": "^0.17.0"
