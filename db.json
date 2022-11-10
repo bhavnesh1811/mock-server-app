@@ -86,6 +86,23 @@
     { "url": "https://www.jiomart.com/images/product/150x150/492849088/motorola-g71-128-gb-6-gb-ram-iris-blue-mobile-phone-digital-o492849088-p591278373-0-202205120857.jpeg","title":"Motorola G71, 128 GB, 6 GB RAM","deal_price":16999,"actual_price":22999},
     { "url": "https://www.jiomart.com/images/product/150x150/492849813/dell-inspiron-3511-laptop-11th-gen-intel-i3-1115g4-8gb-512gb-ssd-integrated-graphics-windows-11-mso-fhd-39-6-cm-15-6-inch-digital-o492849813-p591642293-0-202205272136.jpeg","title":"Dell Inspiron 3511 Laptop","deal_price":43800,"actual_price":50644}
     
-  ]
+  ],
 
+  "foodGrain1169":[
+    { "url": "https://www.jiomart.com/images/product/150x150/491186625/good-life-almonds-500-g-product-images-o491186625-p491186625-0-202205180139.jpg","title":"Good Life Almonds 500g","deal_price":349,"actual_price":549},
+  { "url": "https://www.jiomart.com/images/product/150x150/491504124/super-sarvottam-physically-refined-rice-bran-oil-1-l-product-images-o491504124-p491504124-0-202210041735.jpg","title":"Super Sarvottam Physically Refined Oil","deal_price":139,"actual_price":199},
+  { "url": "https://www.jiomart.com/images/product/150x150/491632854/regular-value-pack-plain-cashews-500-g-product-images-o491632854-p491632854-0-202203170449.jpg","title":"Regular Value Pack Plain Cashews","deal_price":379,"actual_price":500},
+  { "url": "https://www.jiomart.com/images/product/150x150/rveyz3oyjy/tulsi-california-rozana-value-almonds-1-kg-product-images-orveyz3oyjy-p591084869-0-202202250452.png","title":"Tulsi California Rozana Almonds","deal_price":699,"actual_price":1090},
+  { "url": "https://www.jiomart.com/images/product/150x150/rv4im96pio/jivo-cold-pressed-kachi-ghani-pure-mustard-oil-5-litre-product-images-orv4im96pio-p591503268-0-202205212320.jpg","title":"Jivo Cold Pressed Kachi Ghani Oil","deal_price":999,"actual_price":1250},
+  { "url": "https://www.jiomart.com/images/product/150x150/491186631/good-life-w320-cashews-500-g-product-images-o491186631-p491186631-0-202205180138.jpg","title":"Good Life (W320) Cashews 500 g","deal_price":399,"actual_price":499},
+  { "url": "https://www.jiomart.com/images/product/150x150/491203242/good-life-yellow-kishmish-500-g-product-images-o491203242-p491203242-0-202204281545.jpg","title":"Good Life Yellow Kishmish","deal_price":149,"actual_price":183},
+  { "url": "https://www.jiomart.com/images/product/150x150/rvzlk6xr6f/daily-nut-california-almond-value-1000gm-250gm-x-pack-of-4-product-images-orvzlk6xr6f-p591543366-0-202210192215.jpg","title":"Daily Nut California Almond VALUE","deal_price":659,"actual_price":1380},
+  { "url": "https://www.jiomart.com/images/product/150x150/490005638/daawat-rozana-gold-basmati-rice-5-kg-product-images-o490005638-p490005638-0-202203171005.jpg","title":"Daawat Rozana Gold Basmati Rice","deal_price":420,"actual_price":560},
+  { "url": "https://www.jiomart.com/images/product/150x150/491186656/good-life-green-kishmish-500-g-product-images-o491186656-p491186656-0-202205180145.jpg","title":"Good Life Green Kishmish 500 g","deal_price":149,"actual_price":183},
+  { "url": "https://www.jiomart.com/images/product/150x150/491173885/elina-long-grain-rice-1-kg-product-images-o491173885-p491173885-0-202203151443.jpg","title":"Elina Long Grain Rice 1 kg","deal_price":60,"actual_price":160},
+  { "url": "https://www.jiomart.com/images/product/150x150/rv3xoi9jlk/lali-balaji-gold-makhana-200-g-product-images-orv3xoi9jlk-p590806420-0-202109271807.jpg","title":"Lali Balaji Gold Makhana 200 g","deal_price":164,"actual_price":280},
+  { "url": "https://www.jiomart.com/images/product/150x150/491897870/value-pack-plain-cashews-4-pcs-500-g-product-images-o491897870-p590067287-0-202203142129.jpg","title":" Value Pack Plain Cashews","deal_price":369,"actual_price":450}
+    
+  ]
+  
 }
