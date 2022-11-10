@@ -61,6 +61,31 @@
 
   "cartData":[
 
+  ],
+
+  "topBestSelling":[
+
+    { "url": "https://www.jiomart.com/images/product/150x150/492849106/motorola-g40-fusion-128-gb-6-gb-ram-frosted-champagne-smartphone-digital-o492849106-p591195016-0-202204112305.jpeg","title":"Motorola G40 Fusion 128 GB,6 GB RAM","deal_price":13999,"actual_price":19999},
+    { "url": "https://www.jiomart.com/images/product/150x150/493178282/realme-c30s-32-gb-2-gb-ram-stripe-black-mobile-phone-digital-o493178282-p594350604-0-202210081742.jpeg","title":"Realme C30s 32 GB, 2 GB RAM","deal_price":6999,"actual_price":9999},
+    { "url": "https://www.jiomart.com/images/product/150x150/492850146/redmi-10a-32-gb-3-gb-ram-sea-blue-mobile-phone-digital-o492850146-p591469935-0-202205192214.jpeg","title":"Redmi 10A 32 GB, 3 GB RAM, Sea Blue","deal_price":7999,"actual_price":10999},
+    { "url": "https://www.jiomart.com/images/product/150x150/491895011/oneplus-108-cm-43-inch-full-hd-smart-led-tv-43y1-digital-o491895011-p590034845-0-202204082038.jpeg","title":"ONEPLUS 108 cm (43 inch) Full HD Smart TV","deal_price":24999,"actual_price":29999},
+    { "url": "https://www.jiomart.com/images/product/150x150/492166368/mi-32-hd-ready-smart-led-tv-4a-horizon-ela4546in-digital-o492166368-p590705109-0-202203181556.jpeg","title":"MI 32 HD Ready Smart LED TV","deal_price":16499,"actual_price":19999},
+    { "url": "https://www.jiomart.com/images/product/150x150/492850519/noise-colorfit-grande-smart-watch-jet-black-digital-o492850519-p592069146-0-202206140351.jpeg","title":"Noise Colorfit Grande Smart Watch","deal_price":1999,"actual_price":4999},
+    { "url": "https://www.jiomart.com/images/product/150x150/493177731/hammer-pulse-ace-smart-watch-with-bluetooth-calling-function-black-digital-o493177731-p594408776-0-202210111723.jpeg","title":"Hammer Pulse Ace Smart Watch","deal_price":1299,"actual_price":3999},
+    { "url": "https://www.jiomart.com/images/product/150x150/492850809/hp-15s-fq2674tu-laptop-11th-gen-intel-core-i3-1115g4-8gb-512gb-ssd-uhd-graphics-windows-11-home-mso-fhd-39-6-cm-15-6-inch-natural-silver-digital-o492850809-p593222762-0-202207291217.jpeg","title":"HP 15s-fq2674TU Laptop","deal_price":43499,"actual_price":51141},
+    { "url": "https://www.jiomart.com/images/product/150x150/493178259/asus-ek522ws-laptop-11th-gen-intel-core-i5-1135g7-8-gb-512-gb-ssd-iris-xe-graphics-windows-11-home-mso-fhd-35-56-cm-14-inch-digital-o493178259-p594311881-0-202210070630.jpeg","title":"Asus EK522WS Laptop","deal_price":49999,"actual_price":70990},
+    { "url": "https://www.jiomart.com/images/product/150x150/rv0udvrahd/straight-comb-hair-straightener-comb-for-women-men-hair-styler-straightener-machine-brush-product-images-orv0udvrahd-p591537920-0-202205231335.jpg","title":"Straight Comb - Hair Straightener","deal_price":409,"actual_price":1499},
+    { "url": "https://www.jiomart.com/images/product/150x150/rveiyvyahz/skmei-rechargeable-beard-trimmer-mens-trimmer-hair-cutting-machine-sk-1018-black-product-images-orveiyvyahz-p592506746-0-202207111820.jpg","title":"Skmei Rechargeable beard trimmer","deal_price":429,"actual_price":1299},
+    { "url": "https://www.jiomart.com/images/product/150x150/492403650/samsung-wondertainment-80-cm-32-inch-smart-hd-ready-tv-ua32t4340bkxxl-digital-o492403650-p591604009-0-202206102115.jpeg","title":"Samsung Wondertainment 80 cm","deal_price":13490,"actual_price":22900},
+    { "url": "https://www.jiomart.com/images/product/150x150/492913102/akai-80-cm-32-inch-hd-ready-smart-led-tv-aklt32s-fl1y9m-digital-o492913102-p593405197-0-202208051216.jpeg","title":"Akai 80 cm (32 Inch) HD Ready Smart","deal_price":9999,"actual_price":24990},
+    { "url": "https://www.jiomart.com/images/product/150x150/rvbmyjmbtx/ibell-ct0928-prime-hd-dvd-player-channel-with-remote-usb-port-usb-copy-function-built-in-amplifier-black-product-images-orvbmyjmbtx-p593981975-0-202209231155.jpg","title":"iBELL CT0928 Prime HD DVD Player","deal_price":2649,"actual_price":3350},
+    { "url": "https://www.jiomart.com/images/product/150x150/rvjxaneyqa/punnkfunnk-pfc-222-dual-usb-smart-charger-fast-charging-power-adaptor-for-all-ios-android-devices-product-images-orvjxaneyqa-p592449697-0-202207081947.jpg","title":" PUNNKFUNNK PFC 222 Dual USB Smart","deal_price":202,"actual_price":499},
+    { "url": "https://www.jiomart.com/images/product/150x150/492850759/fire-boltt-ninja-smart-watch-with-touch-to-wake-feature-ip67-water-resistant-black-digital-o492850759-p592617163-0-202207151325.jpeg","title":"Fire-Boltt Ninja Smart Watch","deal_price":1699,"actual_price":4999},
+    { "url": "https://www.jiomart.com/images/product/150x150/493178070/noise-colorfit-caliber-go-smart-watch-with-4-29-cm-1-69-inch-full-touch-color-display-jet-black-digital-o493178070-p594007359-0-202209240125.jpeg","title":"Noise ColorFit Caliber Go Smart","deal_price":1799,"actual_price":3999},
+    { "url": "https://www.jiomart.com/images/product/150x150/492849855/redmi-10-128-gb-6-gb-ram-pacific-blue-mobile-phone-digital-o492849855-p591469930-0-202205192214.jpeg","title":"Redmi 10 128 GB, 6 GB RAM, Pacific","deal_price":11999,"actual_price":16999},
+    { "url": "https://www.jiomart.com/images/product/150x150/492849088/motorola-g71-128-gb-6-gb-ram-iris-blue-mobile-phone-digital-o492849088-p591278373-0-202205120857.jpeg","title":"Motorola G71, 128 GB, 6 GB RAM","deal_price":16999,"actual_price":22999},
+    { "url": "https://www.jiomart.com/images/product/150x150/492849813/dell-inspiron-3511-laptop-11th-gen-intel-i3-1115g4-8gb-512gb-ssd-integrated-graphics-windows-11-mso-fhd-39-6-cm-15-6-inch-digital-o492849813-p591642293-0-202205272136.jpeg","title":"Dell Inspiron 3511 Laptop","deal_price":43800,"actual_price":50644}
+    
   ]
 
 }
